@@ -45,16 +45,18 @@ src │ ├── controllers # Controllers for handling business logic │ ├�
    npm install
    
 3. **Configure environment variables**:
-   *Create a .env file in the root of the project and add the following:
+   **Create a .env file in the root of the project and add the following:
+   ```bash
    PORT=8000
    MONGO_URI=mongodb://localhost:27017/
    JWT_SECRET=your-secret-key
    NODE_ENV=Development
 
-4. **Start the application**:
-   *For development:
+5. **Start the application**:
+   ```bash
+   For development:
    npm run dev
-   *For production:
+   For production:
    npm start
 
 
