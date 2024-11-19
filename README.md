@@ -91,6 +91,7 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
    npm start
    ```
 
+
 ## 🧪 API Endpoints
 
 ### User Routes
@@ -129,7 +130,6 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
 
 ## 📜 Future Improvements
 
-- Implementing user role-based access control.
 - Enhancing task functionality with reminders and categorization.
 - Integrating unit and integration testing for API endpoints.
 - Optimizing performance with caching strategies.
