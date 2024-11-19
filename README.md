@@ -31,3 +31,31 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
 ## 📂 Project Structure
 
 src │ ├── controllers # Controllers for handling business logic │ ├── task.js # Task controller logic │ └── user.js # User controller logic │ ├── middlewares # Middleware functions for authentication and error handling │ ├── auth.js # Authentication middleware │ └── error.js # Error handling middleware │ ├── models # Models for data schema and database interaction │ ├── task.js # Task schema and model │ └── user.js # User schema and model │ ├── routes # Routes for defining API endpoints │ ├── task.js # Task routes │ └── user.js # User routes │ ├── data # Database connection configuration │ └── database.js # Database connection │ ├── utils # Utility functions │ └── features.js # Utility functions (e.g., sending cookies) │ ├── app.js # Express app setup └── server.js # Server configuration and startup
+
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/contact-app.git
+   cd contact-app
+   
+2. **Install dependencies**:
+   ```bash
+   npm install
+   
+3. **Configure environment variables**:
+   *Create a .env file in the root of the project and add the following:
+   PORT=8000
+   MONGO_URI=mongodb://localhost:27017/
+   JWT_SECRET=your-secret-key
+   NODE_ENV=Development
+
+4. **Start the application**:
+   *For development:
+   npm run dev
+   *For production:
+   npm start
+
+
+
