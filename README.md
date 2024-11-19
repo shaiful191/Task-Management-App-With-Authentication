@@ -82,11 +82,11 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
    ```
 
 5. **Start the application**:
-   **For development:
+   - **For development:
    ```bash
    npm run dev
    ```
-   **For production:
+   - **For production:
    ```bash
    npm start
    ```
