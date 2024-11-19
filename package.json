@@ -1,7 +1,7 @@
 {
-  "name": "contact-app",
+  "name": "Task Management App",
   "version": "1.0.0",
-  "description": "This is my first test project",
+  "description": "This is my task management project",
   "main": "server.js",
   "type": "module",
   "scripts": {
