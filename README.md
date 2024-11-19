@@ -140,7 +140,7 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
 
 - **Author**: Shaiful Islam
 - **Email**: [shaifulislam2651@gmail.com](mailto:shaifulislam2651@gmail.com)
-- **LinkedIn**: [shaiful191](https://linkedin.com/in/shaiful191)
+- **LinkedIn**: [https://linkedin.com/in/shaiful191](https://linkedin.com/in/shaiful191)
 
 ---
 
