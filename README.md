@@ -73,7 +73,7 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
    npm install
    
 3. **Configure environment variables**:
-   **Create a .env file in the root of the project and add the following:
+   - Create a .env file in the root of the project and add the following:
    ```bash
    PORT=8000
    MONGO_URI=mongodb://localhost:27017/
@@ -82,11 +82,11 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
    ```
 
 5. **Start the application**:
-   - **For development:
+   - For development:
    ```bash
    npm run dev
    ```
-   - **For production:
+   - For production:
    ```bash
    npm start
    ```
