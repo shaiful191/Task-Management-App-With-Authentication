@@ -65,8 +65,8 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/contact-app.git
-   cd contact-app
+   git clone https://github.com/shaiful191/Task-Management-App-With-Authentication.git
+   cd Task-Management-App-With-Authentication
    
 2. **Install dependencies**:
    ```bash
@@ -91,4 +91,60 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
    npm start
    ```
 
+## 🧪 API Endpoints
+
+### User Routes
+
+- **POST** `/api/v1/users/register` - Register a new user
+- **POST** `/api/v1/users/login` - Log in a user
+- **GET** `/api/v1/users/logout` - Log out a user
+- **GET** `/api/v1/users/profile` - Get user profile (protected)
+
+### Task Routes
+
+- **POST** `/api/v1/task/create` - Create a new task (protected)
+- **GET** `/api/v1/task/my` - Get all tasks for the logged-in user (protected)
+- **PUT** `/api/v1/task/:id` - Toggle task completion status (protected)
+- **DELETE** `/api/v1/task/:id` - Delete a task (protected)
+
+---
+
+## 🔒 Security Features
+
+- **Password Hashing**: Using **bcrypt** to ensure secure storage of user passwords.
+- **JWT**: Secure token-based authentication for managing user sessions.
+- **CORS**: Configured to restrict API access to specific frontend URLs.
+- **Cookie Handling**: HttpOnly and secure flags used for cookies in production.
+
+---
+
+## 💡 Key Concepts Learned
+
+- Structuring a **Node.js** project using **MVC architecture** for scalability and maintainability.
+- Implementing middleware for authentication and error handling.
+- Using **Mongoose** for data modeling and database operations.
+- Handling environment-specific configurations for secure and efficient development.
+
+---
+
+## 📜 Future Improvements
+
+- Implementing user role-based access control.
+- Enhancing task functionality with reminders and categorization.
+- Integrating unit and integration testing for API endpoints.
+- Optimizing performance with caching strategies.
+
+---
+
+## 📬 Contact
+
+- **Author**: Shaiful Islam
+- **Email**: [shaifulislam2651@gmail.com](mailto:shaifulislam2651@gmail.com)
+- **LinkedIn**: [shaiful191](https://linkedin.com/in/shaiful191)
+
+---
+
+## 📝 License
+
+This project is licensed under the ISC License.
 
