@@ -9,10 +9,6 @@ import cors from "cors";
 
 export const app = express();
 
-// config({
-//   path: './data/config.env',
-// })
-
 //Using middlewares:
 app.use(express.json());
 app.use(cookieParser());
