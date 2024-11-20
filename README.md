@@ -151,7 +151,6 @@ You can access the live app here: [https://task-management-app-with-authenticati
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
 *Thank you for checking out my project! Feel free to contribute or reach out for any inquiries.* 🚀
 
