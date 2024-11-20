@@ -91,7 +91,6 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
    npm start
    ```
 
----
 
 
 ## 🧪 API Endpoints
@@ -110,7 +109,6 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
 - **PUT** `/api/v1/task/:id` - Toggle task completion status (protected)
 - **DELETE** `/api/v1/task/:id` - Delete a task (protected)
 
----
 
 ## 🔒 Security Features
 
@@ -119,7 +117,6 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
 - **CORS**: Configured to restrict API access to specific frontend URLs.
 - **Cookie Handling**: HttpOnly and secure flags used for cookies in production.
 
----
 
 ## 💡 Key Concepts Learned
 
@@ -128,7 +125,6 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
 - Using **Mongoose** for data modeling and database operations.
 - Handling environment-specific configurations for secure and efficient development.
 
----
 
 ## 📜 Future Improvements
 
@@ -136,14 +132,12 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
 - Integrating unit and integration testing for API endpoints.
 - Optimizing performance with caching strategies.
 
----
 
 
 ## 🌐 Live Demo
 
 You can access the live app here: [https://task-management-app-with-authentication.onrender.com](https://task-management-app-with-authentication.onrender.com)
 
----
 
 
 ## 📬 Contact
@@ -152,7 +146,6 @@ You can access the live app here: [https://task-management-app-with-authenticati
 - **Email**: [shaifulislam2651@gmail.com](mailto:shaifulislam2651@gmail.com)
 - **LinkedIn**: [https://linkedin.com/in/shaiful191](https://linkedin.com/in/shaiful191)
 
----
 
 ## 📝 License
 
