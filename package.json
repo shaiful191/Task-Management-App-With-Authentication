@@ -4,6 +4,9 @@
   "description": "This is my task management project",
   "main": "server.js",
   "type": "module",
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "scripts": {
     "start": "node ./src/server.js",
     "dev": "nodemon ./src/server.js"
