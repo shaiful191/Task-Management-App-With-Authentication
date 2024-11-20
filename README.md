@@ -11,10 +11,6 @@ This project is a **Task Management App** built with **Node.js**, **Express**, a
 - **Database Integration**: Data persistence using **MongoDB** with **Mongoose**.
 - **Environment Configuration**: Secure configuration management using **dotenv**.
 
-## 🌐 Live Demo
-
-You can access the live app here: [https://task-management-app-with-authentication.onrender.com](https://task-management-app-with-authentication.onrender.com)
-
 ## 🏛️ Architecture
 
 The app follows the **MVC (Model-View-Controller) architecture**, which separates the application into three interconnected components:
@@ -139,6 +135,12 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
 - Optimizing performance with caching strategies.
 
 ---
+
+
+## 🌐 Live Demo
+
+You can access the live app here: [https://task-management-app-with-authentication.onrender.com](https://task-management-app-with-authentication.onrender.com)
+
 
 ## 📬 Contact
 
