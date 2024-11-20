@@ -13,7 +13,7 @@ This project is a **Task Management App** built with **Node.js**, **Express**, a
 
 ## 🌐 Live Demo
 
-You can access the live app here: [(https://task-management-app-with-authentication.onrender.com](https://task-management-app-with-authentication.onrender.com)
+You can access the live app here: [https://task-management-app-with-authentication.onrender.com](https://task-management-app-with-authentication.onrender.com)
 
 ## 🏛️ Architecture
 
