@@ -91,6 +91,8 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
    npm start
    ```
 
+---
+
 
 ## 🧪 API Endpoints
 
@@ -140,6 +142,8 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
 ## 🌐 Live Demo
 
 You can access the live app here: [https://task-management-app-with-authentication.onrender.com](https://task-management-app-with-authentication.onrender.com)
+
+---
 
 
 ## 📬 Contact
