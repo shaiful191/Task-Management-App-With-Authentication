@@ -60,7 +60,7 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
   ```
 
 
-
+<!--
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**:
@@ -91,7 +91,7 @@ The app follows the **MVC (Model-View-Controller) architecture**, which separate
    npm start
    ```
 
-
+-->
 
 ## 🧪 API Endpoints
 
